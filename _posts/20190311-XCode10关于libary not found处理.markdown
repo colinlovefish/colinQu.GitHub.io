@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "XCode10关于library not found for -lstdc++.6.0.9 处理"
-date:   2020-09-15 09:30:51 +0800
+date:   20190311 15:30:51 +0800
 categories: yinghu update
 ---
 

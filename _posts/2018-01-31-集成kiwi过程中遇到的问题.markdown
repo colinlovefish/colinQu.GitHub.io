@@ -3,7 +3,8 @@ layout: post
 title:  "集成kiwi过程中遇到的问题"
 
 date:   20180131 11:35:51 +0800
-categories: yinghu update
+categories: [iOS]
+tags: [troubleshooting]
 ---
 
 

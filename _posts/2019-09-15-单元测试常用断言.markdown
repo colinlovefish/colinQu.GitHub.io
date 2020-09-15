@@ -2,7 +2,7 @@
 layout: post
 title:  "iOS单元测试常用断言"
 date:   2020-09-15 09:30:51 +0800
-categories: yinghu update
+categories: [iOS]
 ---
 生成一个失败的测试:<br>
 ```

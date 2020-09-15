@@ -2,7 +2,8 @@
 layout: post
 title:  "Mac查询当前运行端口号"
 date:   2020-09-15 09:30:51 +0800
-categories: yinghu update
+categories: [Linux]
+tags: [Linux]
 ---
 
 

@@ -3,7 +3,8 @@ layout: post
 title:  "使用CocoaPods时遇到pod setup失败的解决办法"
 
 date:   20180814 21:58:51 +0800
-categories: yinghu update
+categories: [iOS]
+tags: [troubleshooting]
 ---
 
 1.访问 https://github.com/CocoaPods/Specs <br>然后将Specs项目fork到自己的github账户上 

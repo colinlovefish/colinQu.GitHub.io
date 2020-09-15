@@ -11,21 +11,23 @@
 #  path: tabs
 #  url: archives
 
+-
+    name: "Archives"
+    path: tabs
+    url: archives
+    icon: "fas fa-archive"
+
 #-
 #  name: Categories
 #  icon: "fas fa-stream"
 #  path: tabs
 #  url: categories
-#-
-#  name: "Tags"
-#  icon: "fas fa-tags"
-#  path: tabs
-#  url: tags
 -
-  name: "Archives"
+  name: "Tags"
+  icon: "fas fa-tags"
   path: tabs
-  url: archives
-  icon: "fas fa-archive"
+  url: tags
+
 -
   name: "About"
   icon: "fas fa-info"

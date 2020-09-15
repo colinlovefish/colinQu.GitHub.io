@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="478124f0-ff60-4a75-97b7-e4387955c2eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_data/tabs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/tabs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-03-20-iOS深色模式官方文档翻译.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

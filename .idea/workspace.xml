@@ -22,6 +22,12 @@
     <list default="true" id="478124f0-ff60-4a75-97b7-e4387955c2eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/tabs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/tabs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/categories.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/categories.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/home.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/home.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/page.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/page.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/post.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/post.min.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,5 +84,9 @@
       <screen x="0" y="23" width="1080" height="1897" />
     </state>
     <state x="88" y="780" key="#com.intellij.fileTypes.FileTypeChooser/-1280.800.1280.777/0.23.1080.1897/1080.804.1920.1013@0.23.1080.1897" timestamp="1599901417952" />
+    <state x="205" y="600" width="670" height="676" key="search.everywhere.popup" timestamp="1600155669820">
+      <screen x="0" y="23" width="1080" height="1853" />
+    </state>
+    <state x="205" y="600" width="670" height="676" key="search.everywhere.popup/-1280.800.1280.777/0.23.1080.1853/1080.804.1920.1057@0.23.1080.1853" timestamp="1600155669820" />
   </component>
 </project>

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "集成kiwi过程中遇到的问题"
+
+date:   2020-09-15 10:30:51 +0800
+categories: yinghu update
+---
+
+
+通过cocopods集成kiwi，会出现  dyld: Library not loaded: @rpath/XCTest.framework/XCTest  的报错，通过在  linked Frameworks and Libraries 中添加 XCTest.framework 并将状态调整为 Optional可解决此问题，初步判断此问题产生的缘由是由于kiwi是基于XCTest再封装的框架，需要此框架作为依赖。
+
+<img src="https://upload-images.jianshu.io/upload_images/6168745-d6f7788e1e10ef9e.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp">
+<img src="https://upload-images.jianshu.io/upload_images/6168745-1eb4375b4cf0e68e.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp">

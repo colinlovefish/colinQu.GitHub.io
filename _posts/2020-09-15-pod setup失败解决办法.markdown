@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "使用CocoaPods时遇到pod setup失败的解决办法"
+
+date:   2020-09-15 10:20:51 +0800
+categories: yinghu update
+---
+
+1.访问 https://github.com/CocoaPods/Specs <br>然后将Specs项目fork到自己的github账户上 
+
+2. 下载GitHub Desktop, 然后clone Specs项目。 
+
+3. 将clone的Specs项目的文件夹改名为master，然后拖到/Users/用户名/.cocoapods/repos目录下。 
+
+4. 运行pod setup
+
+解释：pod setup的本质就是将https://github.com/CocoaPods/Specs上的Specs项目clone到/Users/用户名/.cocoapods/repos目录下。若此目录下已有Specs项目，则会将项目更新到最新的状态。由于Specs很大，容易导致pod setup失败。这时就需要我们手动安装Specs。若直接从github上下载zip文件，由于缺少git文件，会导致cocoa pods不使用。若用git clone，由于文件过大，容易导致失败。但是使用GitHub Desktop或者sourcetree软件，则会提高clone的成功率，并且会给出clone的进度。

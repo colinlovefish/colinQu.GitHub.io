@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Mac查询当前运行端口号"
+date:   2020-09-15 09:30:51 +0800
+categories: yinghu update
+---
+
+
+MAC查询端口号命令：<br>
+``` 
+lsof -nP -iTCP -sTCP:LISTEN
+```
+
+杀死某一个运行端口号:<br>
+```
+sudo kill -9 PID
+```

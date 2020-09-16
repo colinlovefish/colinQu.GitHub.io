@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "绘制梯形"
-date:   2020-07-10 09:30:51 +0800
+date:   2020-07-15 09:30:51 +0800
 categories: [iOS]
-tags:[swift,梯形]
 pin: true
 ---
-
 梯形绘制比较简单，主要是定位出四个点，用bezier画线连上即可
 ```
 

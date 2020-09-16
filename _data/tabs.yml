@@ -17,11 +17,11 @@
     url: archives
     icon: "fas fa-archive"
 
-#-
-#  name: Categories
-#  icon: "fas fa-stream"
-#  path: tabs
-#  url: categories
+-
+  name: Categories
+  icon: "fas fa-stream"
+  path: tabs
+  url: categories
 -
   name: "Tags"
   icon: "fas fa-tags"

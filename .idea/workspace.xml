@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="478124f0-ff60-4a75-97b7-e4387955c2eb" name="Default Changelist" comment="" />
+    <list default="true" id="478124f0-ff60-4a75-97b7-e4387955c2eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-09-23-使用sourcetree推送无分支.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/sample/git_bug_fixed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-23-ubuntu上安装swift.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-23-ubuntu上安装swift.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +49,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/sample" />
       <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
@@ -60,7 +66,7 @@
       <workItem from="1600240406182" duration="1520000" />
       <workItem from="1600304397080" duration="1077000" />
       <workItem from="1600390505768" duration="810000" />
-      <workItem from="1600827816490" duration="659000" />
+      <workItem from="1600827816490" duration="1452000" />
     </task>
     <servers />
   </component>

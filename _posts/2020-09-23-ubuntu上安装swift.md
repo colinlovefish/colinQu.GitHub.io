@@ -7,25 +7,25 @@ tags: [swift]
 ---
 
 
-1. 安装依赖关系：
+安装依赖关系：
 
 ```
 sudo apt-get install clang libicu-dev
 ```
 
-2. 下载 swift：
+下载 swift：
 
 ```
 wget https://swift.org/builds/swift-4.1-release/ubuntu1404/swift-4.1-RELEASE/swift-4.1-RELEASE-ubuntu14.04.tar.gz
 ```
 
-3. 解压：
+解压：
 
 ```
 tar xzf swift-4.1-RELEASE-ubuntu14.04.tar.gz
 ```
 
-4. 配置环境变量：
+配置环境变量：
 
 ```
 vim ~/.bashrc
@@ -34,7 +34,7 @@ source ~/.bashrc
 ```
 
 
-5. 验证是否安装成功：
+验证是否安装成功：
 
 ```
 swift --version

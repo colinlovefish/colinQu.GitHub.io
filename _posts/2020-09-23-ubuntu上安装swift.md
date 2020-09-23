@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ubuntu上安装swift"
-date:   2020-09-15 09:30:51 +0800
+date:   2020-09-23 10:30:51 +0800
 categories: [iOS]
 tags: [swift]
 ---

@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="478124f0-ff60-4a75-97b7-e4387955c2eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-09-23-ubuntu上安装swift.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +61,9 @@
       <workItem from="1599890254045" duration="6098000" />
       <workItem from="1600132366332" duration="4065000" />
       <workItem from="1600240406182" duration="1520000" />
+      <workItem from="1600304397080" duration="1077000" />
+      <workItem from="1600390505768" duration="810000" />
+      <workItem from="1600827816490" duration="306000" />
     </task>
     <servers />
   </component>

@@ -20,9 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="478124f0-ff60-4a75-97b7-e4387955c2eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-26-css样式表-nth-of-type使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-26-css样式表-nth-of-type使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-26-css样式表box-sizing.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-26-css样式表box-sizing.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-26-css样式表iframe.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-26-css样式表iframe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-09-26-css样式表span与div.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-26-css样式表span与div.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +66,7 @@
       <workItem from="1600827816490" duration="1674000" />
       <workItem from="1600912077742" duration="3974000" />
       <workItem from="1601101166626" duration="7737000" />
-      <workItem from="1601112600818" duration="1438000" />
+      <workItem from="1601112600818" duration="1825000" />
     </task>
     <servers />
   </component>

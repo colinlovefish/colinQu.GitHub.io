@@ -8,7 +8,7 @@ tags: [css]
 
 <strong>HTML内联框架元素(<iframe>)</strong> 能够将另一个HTML页面嵌入当前页面中。
 
-```
+```html
 
 <iframe id="inline"
 		title="inline title"

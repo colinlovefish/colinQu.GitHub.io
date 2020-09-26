@@ -8,7 +8,7 @@ tags: [css]
 
    <strong> nth-of-type(): </strong>   这个CSS伪类，针对具有一组兄弟节点的标签，用n来筛选一组兄弟节点的位置。在多个css同节点中，区分不同兄弟节点，用于做节点特殊处理。
    
-```
+```scss
 
      &:nth-of-type(3){
 	    a{

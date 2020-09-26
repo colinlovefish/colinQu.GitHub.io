@@ -4,8 +4,8 @@ title:  "css层叠样式表-box-sizing"
 date:   2020-09-26 14:26:51 +0800
 categories: [web]
 tags: [css]	
-	
 ---
+
 box-sizing的属性默认值是 content-box，其设置的宽度值即为内容区宽度值，设置的边框和内边框会被增加到最后绘制出来的元素宽度中。
 ```
 

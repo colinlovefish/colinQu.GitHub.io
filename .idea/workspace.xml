@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="478124f0-ff60-4a75-97b7-e4387955c2eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-09-26-css样式表iframe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-09-26-nth-of-type使用.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-26-nth-of-type使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-26-nth-of-type使用.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +67,7 @@
       <workItem from="1600827816490" duration="1674000" />
       <workItem from="1600912077742" duration="3974000" />
       <workItem from="1601101166626" duration="7737000" />
-      <workItem from="1601112600818" duration="117000" />
+      <workItem from="1601112600818" duration="757000" />
     </task>
     <servers />
   </component>

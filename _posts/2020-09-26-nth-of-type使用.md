@@ -6,11 +6,21 @@ categories: [web]
 tags: [css]	
 ---
 
-   HTML <div>元素是通用流内容容器，作为一个纯粹的容器，<div>在语义上不表示任何特定内容。可以使用 class或者 id 属性自定义内容格式。<div>是一个块元素。
+   <strong> nth-of-type(): </strong>   这个CSS伪类，针对具有一组兄弟节点的标签，用n来筛选一组兄弟节点的位置。
+   
+```
 
-   HTML <span>元素是短语内容行内容器。<span>是行内元素。一般情况下，行内元素只能包含数据和其他行内元素。而块级元素可以包含行内元素和其他块级元素。这种结构上的包含继承区别可以使块级元素创建比行内元素更"大型"的结构。 <br>
-
-   默认情况下，行内元素不会以新行开始，而块级元素会新起一行。
+     &:nth-of-type(3){
+	    a{
+		    .downloadButton{
+			    :global(.icon){
+				    font-size: 14px;
+				}
+			}
+		}
+	}
 
 ```
+
+<strong> :nth-last-of-type(an+b) </strong> 基本上和 <strong> :nth-of-type </strong>  但是是从结尾处反序计数。
 

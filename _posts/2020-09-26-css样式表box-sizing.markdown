@@ -12,7 +12,6 @@ box-sizing的属性默认值是 content-box，其设置的宽度值即为内容�
 	.parents {
 		width: 300px;
 		height: 400px;
-
 		border: solid rebeccapurple 10px;
 	}
 
@@ -34,7 +33,6 @@ border-box设置的宽度包括边框和内边距，设置的宽度=实际宽度
 	.parents {
 		width: 300px;
 		height: 400px;
-
 		border: solid rebeccapurple 10px;
 	}
 
@@ -47,4 +45,4 @@ border-box设置的宽度包括边框和内边距，设置的宽度=实际宽度
 	}
 	
 ```
-
+![avatar](/assets/img/sample/css_border-box.jpg)
